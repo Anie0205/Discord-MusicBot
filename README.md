@@ -23,7 +23,11 @@ This Discord bot plays music from YouTube in voice channels using `youtube-dl` i
 - `os`
 - `dotenv`
 - `youtube_dl`
+- `ffmpeg` : You need to install it separately from the link provided below in the same directory and involve the address in your environment variables accordingly
 
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
+
+### The link for the ffmpeg library : 
+https://www.gyan.dev/ffmpeg/builds/
