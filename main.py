@@ -5,7 +5,7 @@ import os
 from dotenv import load_dotenv
 import youtube_dl
 
-token = "MTE5MDM0ODYwNTA5ODMxNTc3Ng.G9v9iH.C-Jkzp7mZZQye-kb1HRyDZcYmNopHwrMLlcM3o"
+token = "Enter_your_token"
 load_dotenv()
 DISCORD_TOKEN = os.getenv(token)
 
